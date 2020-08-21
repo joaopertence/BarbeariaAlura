@@ -1,6 +1,6 @@
 # barbeariaAlura
 
-    Projeto de um site de uma "barbearia fake" para aprendizado e domínio do HTML5 e CSS3 durante o curso na instituição Alura.
+Projeto de um site de uma "barbearia fake" para aprendizado e domínio do HTML5 e CSS3 durante o curso na instituição Alura.
 
 ```
     © Copyriht Barbearia Alura - 2019
